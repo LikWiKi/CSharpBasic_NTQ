@@ -1,0 +1,14 @@
+E:\NTQ\Training\Topic basic program\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+E:\NTQ\Training\Topic basic program\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+E:\NTQ\Training\Topic basic program\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+E:\NTQ\Training\Topic basic program\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+E:\NTQ\Training\Topic basic program\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+E:\NTQ\Training\Topic basic program\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.AssemblyReference.cache
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.GeneratedMSBuildEditorConfig.editorconfig
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+E:\NTQ\Training\Topic basic program\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache
