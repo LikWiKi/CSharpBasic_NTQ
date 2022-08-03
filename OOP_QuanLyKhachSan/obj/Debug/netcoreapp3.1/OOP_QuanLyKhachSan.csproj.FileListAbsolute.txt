@@ -1,0 +1,14 @@
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\bin\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.exe
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\bin\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.deps.json
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\bin\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.runtimeconfig.json
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\bin\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.runtimeconfig.dev.json
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\bin\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\bin\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.csproj.AssemblyReference.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.AssemblyInfoInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.AssemblyInfo.cs
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\OOP2\obj\Debug\netcoreapp3.1\OOP_QuanLyKhachSan.genruntimeconfig.cache
