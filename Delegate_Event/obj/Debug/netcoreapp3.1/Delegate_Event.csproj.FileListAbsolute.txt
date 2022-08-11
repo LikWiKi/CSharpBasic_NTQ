@@ -1,0 +1,14 @@
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.exe
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.deps.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.runtimeconfig.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.runtimeconfig.dev.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.csproj.AssemblyReference.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.AssemblyInfoInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.AssemblyInfo.cs
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.csproj.CoreCompileInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.genruntimeconfig.cache

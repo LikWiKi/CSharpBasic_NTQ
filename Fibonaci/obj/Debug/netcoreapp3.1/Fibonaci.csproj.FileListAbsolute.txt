@@ -1,0 +1,14 @@
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.exe
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.deps.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.runtimeconfig.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.runtimeconfig.dev.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\bin\Debug\netcoreapp3.1\Fibonaci.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.csproj.AssemblyReference.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.AssemblyInfoInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.AssemblyInfo.cs
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.csproj.CoreCompileInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\Fibonaci\obj\Debug\netcoreapp3.1\Fibonaci.genruntimeconfig.cache

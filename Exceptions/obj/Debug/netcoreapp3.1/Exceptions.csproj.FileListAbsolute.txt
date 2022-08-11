@@ -1,0 +1,14 @@
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+E:\NTQ\Training\Topic basic program\ThucHanh\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache
